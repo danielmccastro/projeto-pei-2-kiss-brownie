@@ -30,7 +30,6 @@ Siga os passos abaixo para rodar o projeto localmente:
 ```bash
 git clone https://github.com/danielmccastro/projeto-pei-2-kiss-brownie.git
 cd projeto-pei-2-kiss-brownie
-
 ```
 ### 2. Instale as dependências
 
@@ -38,7 +37,6 @@ Certifique-se de que você tem o Node.js instalado. Depois, execute:
 
 ```bash
 npm install
-
 ```
 ### 3. Configure o ambiente
 
@@ -46,13 +44,11 @@ Crie um arquivo .env na raiz do projeto com base no arquivo .env.example:
 
 ```bash
 cp .env.example .env
-
 ```
 Edite o arquivo .env com o PIN desejado (esse PIN será solicitado ao abrir o app):
 
 ```bash
 APP_PIN=1234
-
 ```
 🔐 O PIN é usado para proteger o acesso ao aplicativo. Não há sistema de autenticação com usuário/senha – o PIN é uma medida local de segurança.
 
@@ -62,7 +58,6 @@ Inicie o servidor de desenvolvimento com o Expo:
 
 ```bash
 npx expo start
-
 ```
 Use o app Expo Go no seu celular para escanear o QR Code exibido no terminal ou no navegador e executar o aplicativo.
 
@@ -81,3 +76,11 @@ PIN de acesso ao app
 
 ```bash
 APP_PIN=1234
+```
+## 👨‍💻 Desenvolvedores
+
+Cristian Oliveira Rocha<br>
+Daniel M C de Castro<br>
+Guilherme Fonseca Wandekoe Ken Filho<br>
+Jhonattan Francisco de Souza<br>
+Matheus Lucas dos S F Sacramento<br>
