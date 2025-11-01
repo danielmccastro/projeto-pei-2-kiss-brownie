@@ -77,7 +77,7 @@ PIN de acesso ao app
 ```bash
 APP_PIN=1234
 ```
-## 👨‍💻 Desenvolvedores
+## 👨‍💻 Membros do grupo
 
 Cristian Oliveira Rocha<br>
 Daniel M C de Castro<br>
